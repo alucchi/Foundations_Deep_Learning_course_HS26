@@ -33,7 +33,7 @@ RUN_TAG = os.environ.get(
     f"br-H{H}-bs{batch_size}-lr{learning_rate:.0e}-lam{lam:g}-gclip{int(max_grad_norm)}",
 )
 RUN_NUMBER = secrets.randbelow(1_000_000)
-OUTPUT_DIR = os.path.join("runs_v3", f"{RUN_TAG}-{RUN_NUMBER:06d}")
+OUTPUT_DIR = os.path.join("runs", f"{RUN_TAG}-{RUN_NUMBER:06d}")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ----------------
@@ -300,7 +300,7 @@ for _ in range(K):
         reward_sum = 0.0
         lives = info["lives"] if "lives" in info else 5
 
-        if episode_number % 100 == 0:
+        if episode_number % 1000 == 0:
             ckpt_path = os.path.join(OUTPUT_DIR, f"weights_ep{episode_number}.pkl")
             with open(ckpt_path, "wb") as checkpoint_file:
                 pickle.dump(model, checkpoint_file)
