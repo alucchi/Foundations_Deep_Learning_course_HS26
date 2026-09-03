@@ -50,16 +50,15 @@ Please read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the not
 | 1        | 01/10/2026 | Thursday | Basics + Linear & non-linear networks            | [Ex. 1](exercises/Exercise01_deep_learning.pdf) |           
 | 2        | 08/10/2026 | Thursday | Approximation Theory                             | [Ex. 2](exercises/Exercise02_deep_learning.pdf) |           
 | 3        | 15/10/2026 | Thursday | Optimization                                     | [Ex. 3](exercises/Exercise03_deep_learning.pdf) |    
-| 4        | 22/10/2026 | Thursday | Optimization Landscape of Neural Networks        | [Ex. 4](exercises/Exercise04_deep_learning.pdf) |          
-| 5        | 22/10/2026 | Thursday | Tutorial session on PyTorch                      | [Jupyter notebook](exercises/Training_MNIST_from_scratch.ipynb) |           
-| 6        | 29/10/2026 | Thursday | Midterm                                          | |         
-| 7        | 05/11/2026 | Thursday | Architecture                                     | [Ex. 5](exercises/Exercise05_deep_learning.pdf) |           
-| 8        | 12/11/2026 | Thursday | Transformers                                     | [Ex. 6](exercises/Exercise06_deep_learning.pdf) |           
-| 9        | 19/11/2026 | Thursday | Transformers Pt. 2                               | [Ex. 7](exercises/Exercise07_deep_learning.pdf) |           
-| 10       | 26/11/2026 | Thursday | Reinforcement Learning                           | [Ex. 8](exercises/Exercise08_deep_learning.pdf) |           
-| 11       | 03/12/2026 | Thursday | Adversarial Examples                             | [Ex. 9](exercises/Exercise09_deep_learning.pdf) |           
-| 12       | 10/12/2026 | Thursday | Generalization bounds                            | [Ex. 10](exercises/Exercise10_deep_learning.pdf) |       
-| 13       | 17/12/2026 | Thursday | CA on Generalization bounds + CAs review         | |
+| 4        | 22/10/2026 | Thursday | Tutorial session on PyTorch                      | [Jupyter notebook](exercises/Training_MNIST_from_scratch.ipynb) |           
+| 5        | 29/10/2026 | Thursday | Midterm                                          | |   
+| 6        | 05/11/2026 | Thursday | Optimization Landscape of Neural Networks        | [Ex. 4](exercises/Exercise04_deep_learning.pdf) |          
+| 7        | 12/11/2026 | Thursday | Architecture                                     | [Ex. 5](exercises/Exercise05_deep_learning.pdf) |           
+| 8        | 19/11/2026 | Thursday | Transformers                                     | [Ex. 6](exercises/Exercise06_deep_learning.pdf) |           
+| 9        | 26/11/2026 | Thursday | Reinforcement Learning                           | [Ex. 7](exercises/Exercise07_deep_learning.pdf) |           
+| 10       | 03/11/2026 | Thursday | Adversarial Examples                             | [Ex. 8](exercises/Exercise08_deep_learning.pdf) |           
+| 11       | 10/12/2026 | Thursday | Generalization bounds                            | [Ex. 9](exercises/Exercise09_deep_learning.pdf) |           
+| 12       | 17/12/2026 | Thursday | CA on Generalization bounds + CAs review         | [Ex. 10](exercises/Exercise10_deep_learning.pdf) |       
 
 
 ## Continuous assessments (CAs)
