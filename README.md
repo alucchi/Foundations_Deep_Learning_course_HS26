@@ -30,9 +30,9 @@ Please read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the not
 | 2       | 30/09/2026 | Wednesday | Complexity Theory                                          | [Slides 3](lecture_slides/sl_03_complexity.pdf) |           
 | 3       | 07/10/2026 | Wednesday | Optimization                                               | [Slides 4](lecture_slides/sl_04_optimization.pdf) |           
 | 4       | 14/10/2026 | Wednesday | Optimization Landscape of Neural Networks                  | [Slides 5](lecture_slides/sl_05_landscape.pdf) |           
-| 5       | 21/10/2026 | Wednesday | Architecture, Part I (no lecture notes, only slides)       | [Slides 6+7](lecture_slides/sl_06+07_architectures_updated.pdf) |          
-| 6       | 28/10/2026 | Wednesday | Architecture, Part II (no lecture notes, only slides)      | |
-| 7       | 04/11/2026 | Wednesday | Neural Tangent Kernel                                      | [Slides 8](lecture_slides/sl_08_NTK.pdf) |           
+| 5       | 21/10/2026 | Wednesday | Architecture, Part I                                       | [Slides 6+7](lecture_slides/sl_06+07_architectures_updated.pdf) |          
+| 6       | 28/10/2026 | Wednesday | Architecture, Part II                                      | |
+| 7       | 04/11/2026 | Wednesday | Architecture, Part III                                      | [Slides 8](lecture_slides/sl_08_NTK.pdf) |           
 | 8       | 11/11/2026 | Wednesday | Adversarial Examples                                       | [Slides 9](lecture_slides/sl_09_adversarial.pdf) |           
 | 9       | 18/11/2026 | Wednesday | Reinforcement Learning                                     | [Slides 10](lecture_slides/sl_10_reinforcement_learning.pdf) |           
 | 10      | 25/11/2026 | Wednesday | Generalization I (Lecturer: Francesco Scala)               | [Slides 11](lecture_slides/sl_11_generalization_1.pdf) |           
