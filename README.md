@@ -16,7 +16,7 @@ Please read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the not
 - CA2: Thursday, 29/10/2026 QA on Optimization
 - CA3: Thursday, 19/11/2026 CA on Optimization Landscape in NN
 - CA4: Thursday, 03/12/2026 QA on Architectures
-- CA5: Thursday, 10/12/2026 QA on Neural Tangent Kernel 
+- CA5: Thursday, 10/12/2026 QA on Transformers
 - CA6: Thursday, 17/12/2026 CA on Generalization bounds I + II
 
 &nbsp;
@@ -27,18 +27,19 @@ Please read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the not
 |---------|------------|-----------|------------------------------------------------------------|-------------------------------------------------------|
 | 0       | 16/09/2026 | Wednesday | Introduction + Linear & non-linear networks                | [Slides 0](lecture_slides/sl_00_prerequisites.pdf) & [Slides 1](lecture_slides/sl_01_introduction.pdf) |
 | 1       | 23/09/2026 | Wednesday | Approximation Theory                                       | [Slides 2](lecture_slides/sl_02_approximation.pdf) |               
-| 2       | 30/09/2026 | Wednesday | Complexity Theory                                          | [Slides 3](lecture_slides/sl_03_complexity.pdf) |           
-| 3       | 07/10/2026 | Wednesday | Optimization                                               | [Slides 4](lecture_slides/sl_04_optimization.pdf) |           
-| 4       | 14/10/2026 | Wednesday | Optimization Landscape of Neural Networks                  | [Slides 5](lecture_slides/sl_05_landscape.pdf) |           
-| 5       | 21/10/2026 | Wednesday | Architecture, Part I                                       | [Slides 6+7](lecture_slides/sl_06+07_architectures_updated.pdf) |          
-| 6       | 28/10/2026 | Wednesday | Architecture, Part II                                      | |
-| 7       | 04/11/2026 | Wednesday | Architecture, Part III                                      | [Slides 8](lecture_slides/sl_08_NTK.pdf) |           
-| 8       | 11/11/2026 | Wednesday | Adversarial Examples                                       | [Slides 9](lecture_slides/sl_09_adversarial.pdf) |           
-| 9       | 18/11/2026 | Wednesday | Reinforcement Learning                                     | [Slides 10](lecture_slides/sl_10_reinforcement_learning.pdf) |           
-| 10      | 25/11/2026 | Wednesday | Generalization I (Lecturer: Francesco Scala)               | [Slides 11](lecture_slides/sl_11_generalization_1.pdf) |           
-| 11      | 02/12/2026 | Wednesday | Generalization II (Lecturer: Francesco Scala)              | [Slides 12](lecture_slides/sl_12_generalization_2.pdf) |
-| 12      | 09/12/2026 | Wednesday | No lecture                                                 | | 
-| 13      | 16/12/2026 | Wednesday | Exam review                                                | | 
+| 2       | 24/09/2026 | Thursday  | Approximation Theory (cont.)                              |  |           
+| 3       | 30/09/2026 | Wednesday | Optimization                                              | [Slides 3](lecture_slides/sl_03_complexity.pdf) |           
+| 4       | 07/10/2026 | Wednesday | Optimization Landscape of Neural Networks                  | [Slides 4](lecture_slides/sl_04_optimization.pdf) |           
+| 5       | 14/10/2026 | Wednesday | Architecture, Part I                                      | [Slides 5](lecture_slides/sl_05_landscape.pdf) |           
+| 6       | 21/10/2026 | Wednesday | Architecture, Part II                                       | [Slides 6+7](lecture_slides/sl_06+07_architectures_updated.pdf) |          
+| 7       | 28/10/2026 | Wednesday | Architecture, Part III: Transformers                                      | |
+| 8       | 04/11/2026 | Wednesday | Architecture, Part III: Transformers (cont.)                                    | |
+| 9       | 11/11/2026 | Wednesday | Reinforcement Learning                                       | [Slides 9](lecture_slides/sl_09_adversarial.pdf) |           
+| 10      | 18/11/2026 | Wednesday | Adversarial Examples                                       | [Slides 10](lecture_slides/sl_10_reinforcement_learning.pdf) |           
+| 11      | 25/11/2026 | Wednesday | Generalization I (Lecturer: Francesco Scala)               | [Slides 11](lecture_slides/sl_11_generalization_1.pdf) |           
+| 12      | 02/12/2026 | Wednesday | Generalization II (Lecturer: Francesco Scala)              | [Slides 12](lecture_slides/sl_12_generalization_2.pdf) |
+| 13      | 09/11/2026 | Wednesday | No lecture                                                 | | 
+| 14      | 16/12/2026 | Wednesday | Exam review                                                | | 
 
 
 ## Exercise schedule
@@ -46,15 +47,15 @@ Please read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the not
 | Week     | Date       | Weekday  | Topic                                            | File                                                   |
 |----------|------------|----------|--------------------------------------------------|--------------------------------------------------------|
 | 0        | 17/09/2026 | Thursday | Prerequisites (Recap)                            | [Ex. 0](exercises/Exercise00_deep_learning.pdf) |
-| 1        | 24/09/2026 | Thursday | Basics + Linear & non-linear networks            | [Ex. 1](exercises/Exercise01_deep_learning.pdf) |           
-| 2        | 01/10/2026 | Thursday | Approximation Theory                             | [Ex. 2](exercises/Exercise02_deep_learning.pdf) |           
-| 3        | 08/10/2026 | Thursday | Complexity Theory                                | [Ex. 3](exercises/Exercise03_deep_learning.pdf) |           
-| 4        | 15/10/2026 | Thursday | Optimization                                     | [Ex. 4](exercises/Exercise04_deep_learning.pdf) |          
+| 1        | 01/10/2026 | Thursday | Basics + Linear & non-linear networks            | [Ex. 1](exercises/Exercise01_deep_learning.pdf) |           
+| 2        | 08/10/2026 | Thursday | Approximation Theory                             | [Ex. 2](exercises/Exercise02_deep_learning.pdf) |           
+| 3        | 15/10/2026 | Thursday | Optimization                                     | [Ex. 3](exercises/Exercise03_deep_learning.pdf) |    
+| 4        | 22/10/2026 | Thursday | Optimization Landscape of Neural Networks        | [Ex. 4](exercises/Exercise04_deep_learning.pdf) |          
 | 5        | 22/10/2026 | Thursday | Tutorial session on PyTorch                      | [Jupyter notebook](exercises/Training_MNIST_from_scratch.ipynb) |           
 | 6        | 29/10/2026 | Thursday | Midterm                                          | |         
-| 7        | 05/11/2026 | Thursday | Optimization Landscape of Neural Networks        | [Ex. 5](exercises/Exercise05_deep_learning.pdf) |           
-| 8        | 12/11/2026 | Thursday | Architecture                                     | [Ex. 6](exercises/Exercise06_deep_learning.pdf) |           
-| 9        | 19/11/2026 | Thursday | Neural Tangent Kernel                            | [Ex. 7](exercises/Exercise07_deep_learning.pdf) |           
+| 7        | 05/11/2026 | Thursday | Architecture                                     | [Ex. 5](exercises/Exercise05_deep_learning.pdf) |           
+| 8        | 12/11/2026 | Thursday | Transformers                                     | [Ex. 6](exercises/Exercise06_deep_learning.pdf) |           
+| 9        | 19/11/2026 | Thursday | Transformers Pt. 2                               | [Ex. 7](exercises/Exercise07_deep_learning.pdf) |           
 | 10       | 26/11/2026 | Thursday | Reinforcement Learning                           | [Ex. 8](exercises/Exercise08_deep_learning.pdf) |           
 | 11       | 03/12/2026 | Thursday | Adversarial Examples                             | [Ex. 9](exercises/Exercise09_deep_learning.pdf) |           
 | 12       | 10/12/2026 | Thursday | Generalization bounds                            | [Ex. 10](exercises/Exercise10_deep_learning.pdf) |       
