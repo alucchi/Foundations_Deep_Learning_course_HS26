@@ -9,7 +9,7 @@ Kollegienhaus, Hörsaal 115 (Petersplatz 1, 4051 Basel)
 
 
 ## Prerequisites
-Please read the [first chapter](lecture_notes_2025/lecture_notes.pdf) of the notes to ensure you have the necessary background for the upcoming lecture.
+Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to ensure you have the necessary background for the upcoming lecture.
 
 ## Preliminary dates for continuous assessments (15% of final grade)
 - CA1: Thursday, 22/10/2026 CA on Approximation and complexity theory
