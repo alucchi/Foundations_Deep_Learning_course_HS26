@@ -25,7 +25,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 
 | Week    | Date       | Weekday   | Topic                                                      | Slides                                                |
 |---------|------------|-----------|------------------------------------------------------------|-------------------------------------------------------|
-| 0       | 16/09/2026 | Wednesday | Introduction + Linear & non-linear networks                | [Slides 0](lecture_slides/sl_00_prerequisites.pdf) & [Slides 1](lecture_slides/sl_01_introduction.pdf) |
+| 0       | 16/09/2026 | Wednesday | Introduction + Linear & non-linear networks                | [Slides 1](lecture_slides/slides1_introduction.pdf) |
 | 1       | 23/09/2026 | Wednesday | Approximation Theory                                       |  |               
 | 2       | 24/09/2026 | Thursday  | Approximation Theory (cont.)                              |  |           
 | 3       | 30/09/2026 | Wednesday | Optimization                                              |  |           
@@ -46,7 +46,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 
 | Week     | Date       | Weekday  | Topic                                            | File                                                   |
 |----------|------------|----------|--------------------------------------------------|--------------------------------------------------------|
-| 0        | 17/09/2026 | Thursday | Prerequisites (Recap)                            |  |
+| 0        | 17/09/2026 | Thursday | Prerequisites (Recap)                            | [Exercise 0](exercises/Exercise0_Prerequisites.pdf) |
 | 1        | 01/10/2026 | Thursday | Basics + Linear & non-linear networks            |  |           
 | 2        | 08/10/2026 | Thursday | Approximation Theory                             | |           
 | 3        | 15/10/2026 | Thursday | Optimization                                     |  |    
