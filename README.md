@@ -12,8 +12,8 @@ Kollegienhaus, Hörsaal 115 (Petersplatz 1, 4051 Basel)
 Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to ensure you have the necessary background for the upcoming lecture.
 
 ## Preliminary dates for continuous assessments (15% of final grade)
-- CA1: Thursday, 22/10/2026 CA on Approximation and complexity theory
-- CA2: Thursday, 29/10/2026 QA on Optimization
+- CA1: Thursday, 15/10/2026 CA on Approximation and complexity theory
+- CA2: Thursday, 22/10/2026 QA on Optimization
 - CA3: Thursday, 19/11/2026 CA on Optimization Landscape in NN
 - CA4: Thursday, 03/12/2026 QA on Architectures
 - CA5: Thursday, 10/12/2026 QA on Transformers
@@ -47,7 +47,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | Week     | Date       | Weekday  | Topic                                            | File                                                   |
 |----------|------------|----------|--------------------------------------------------|--------------------------------------------------------|
 | 0        | 17/09/2026 | Thursday | Prerequisites (Recap)                            | [Exercise 0](exercises/Exercise0_Prerequisites.pdf) |
-| 1        | 01/10/2026 | Thursday | Basics + Linear & non-linear networks            |  |           
+| 1        | 01/10/2026 | Thursday | Basics + Linear & non-linear networks            | [Exercise 1](exercises/Exercise1_Neuralnetworks.pdf) |           
 | 2        | 08/10/2026 | Thursday | Approximation Theory                             | |           
 | 3        | 15/10/2026 | Thursday | Optimization                                     |  |    
 | 4        | 22/10/2026 | Thursday | Tutorial session on PyTorch                      | |           
