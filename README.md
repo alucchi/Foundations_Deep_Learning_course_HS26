@@ -26,7 +26,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | Week    | Date       | Weekday   | Topic                                                      | Slides                                                |
 |---------|------------|-----------|------------------------------------------------------------|-------------------------------------------------------|
 | 0       | 16/09/2026 | Wednesday | Introduction + Linear & non-linear networks                | [Slides 1](lecture_slides/slides1_introduction.pdf) |
-| 1       | 23/09/2026 | Wednesday | Approximation Theory                                       |  |               
+| 1       | 23/09/2026 | Wednesday | Approximation Theory                                       |  | [Slides 2](lecture_slides/slides2_approximation.pdf)              
 | 2       | 24/09/2026 | Thursday  | Approximation Theory (cont.)                              |  |           
 | 3       | 30/09/2026 | Wednesday | Optimization                                              |  |           
 | 4       | 07/10/2026 | Wednesday | Optimization Landscape of Neural Networks                  |  |           
