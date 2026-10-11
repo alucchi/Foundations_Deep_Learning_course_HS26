@@ -30,7 +30,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | 2       | 24/09/2026 | Thursday  | Approximation Theory (cont.)                              |  |           
 | 3       | 30/09/2026 | Wednesday | Optimization                                              | [Slides 3](lecture_slides/slides3_optimization.pdf) |           
 | 4       | 07/10/2026 | Wednesday | Optimization Landscape of Neural Networks                  | [Slides 4](lecture_slides/slides4_losslandscape.pdf) |           
-| 5       | 14/10/2026 | Wednesday | Architecture, Part I                                      | [Slides 5] (lecture_slides/slides5_architecture.pdf) |           
+| 5       | 14/10/2026 | Wednesday | Architecture, Part I                                      | [Slides 5](lecture_slides/slides5_architecture.pdf) |           
 | 6       | 21/10/2026 | Wednesday | Architecture, Part II                                       |  |          
 | 7       | 28/10/2026 | Wednesday | Architecture, Part III: Transformers                                      | |
 | 8       | 04/11/2026 | Wednesday | Architecture, Part III: Transformers (cont.)                                    | |
