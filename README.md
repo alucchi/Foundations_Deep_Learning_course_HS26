@@ -30,7 +30,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | 2       | 24/09/2026 | Thursday  | Approximation Theory (cont.)                              |  |           
 | 3       | 30/09/2026 | Wednesday | Optimization                                              | [Slides 3](lecture_slides/slides3_optimization.pdf) |           
 | 4       | 07/10/2026 | Wednesday | Optimization Landscape of Neural Networks                  | [Slides 4](lecture_slides/slides4_losslandscape.pdf) |           
-| 5       | 14/10/2026 | Wednesday | Architecture, Part I                                      |  |           
+| 5       | 14/10/2026 | Wednesday | Architecture, Part I                                      | [Slides 5] (lecture_slides/slides5_architecture.pdf) |           
 | 6       | 21/10/2026 | Wednesday | Architecture, Part II                                       |  |          
 | 7       | 28/10/2026 | Wednesday | Architecture, Part III: Transformers                                      | |
 | 8       | 04/11/2026 | Wednesday | Architecture, Part III: Transformers (cont.)                                    | |
@@ -49,7 +49,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | 0        | 17/09/2026 | Thursday | Prerequisites (Recap)                            | [Exercise 0](exercises/Exercise0_Prerequisites.pdf) |
 | 1        | 01/10/2026 | Thursday | Basics + Linear & non-linear networks            | [Exercise 1](exercises/Exercise1_Neuralnetworks.pdf) |           
 | 2        | 08/10/2026 | Thursday | Approximation Theory                             | [Exercise 2](exercises/Exercise2_Approximation.pdf)|           
-| 3        | 15/10/2026 | Thursday | Optimization                                     |  |    
+| 3        | 15/10/2026 | Thursday | Optimization                                     | [Exercise 2](exercises/Exercise3_Optimization.pdf) |    
 | 4        | 22/10/2026 | Thursday | Tutorial session on PyTorch                      | |           
 | 5        | 29/10/2026 | Thursday | Midterm                                          | |   
 | 6        | 05/11/2026 | Thursday | Optimization Landscape of Neural Networks        | |          
