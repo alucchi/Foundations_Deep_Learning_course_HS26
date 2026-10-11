@@ -49,7 +49,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | 0        | 17/09/2026 | Thursday | Prerequisites (Recap)                            | [Exercise 0](exercises/Exercise0_Prerequisites.pdf) |
 | 1        | 01/10/2026 | Thursday | Basics + Linear & non-linear networks            | [Exercise 1](exercises/Exercise1_Neuralnetworks.pdf) |           
 | 2        | 08/10/2026 | Thursday | Approximation Theory                             | [Exercise 2](exercises/Exercise2_Approximation.pdf)|           
-| 3        | 15/10/2026 | Thursday | Optimization                                     | [Exercise 2](exercises/Exercise3_Optimization.pdf) |    
+| 3        | 15/10/2026 | Thursday | Optimization                                     | [Exercise 3](exercises/Exercise3_Optimization.pdf) |    
 | 4        | 22/10/2026 | Thursday | Tutorial session on PyTorch                      | |           
 | 5        | 29/10/2026 | Thursday | Midterm                                          | |   
 | 6        | 05/11/2026 | Thursday | Optimization Landscape of Neural Networks        | |          
