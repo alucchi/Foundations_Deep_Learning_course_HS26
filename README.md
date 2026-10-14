@@ -50,9 +50,9 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | 1        | 01/10/2026 | Thursday | Basics + Linear & non-linear networks            | [Exercise 1](exercises/Exercise1_Neuralnetworks.pdf) |           
 | 2        | 08/10/2026 | Thursday | Approximation Theory                             | [Exercise 2](exercises/Exercise2_Approximation.pdf)|           
 | 3        | 15/10/2026 | Thursday | Optimization                                     | [Exercise 3](exercises/Exercise3_Optimization.pdf) |    
-| 4        | 22/10/2026 | Thursday | Tutorial session on PyTorch                      | |           
+| 4        | 22/10/2026 | Thursday | Optimization Landscape of Neural Networks        | |           
 | 5        | 29/10/2026 | Thursday | Midterm                                          | |   
-| 6        | 05/11/2026 | Thursday | Optimization Landscape of Neural Networks        | |          
+| 6        | 05/11/2026 | Thursday | Tutorial session on PyTorch                      | |          
 | 7        | 12/11/2026 | Thursday | Architecture                                     | |           
 | 8        | 19/11/2026 | Thursday | Transformers                                     | |           
 | 9        | 26/11/2026 | Thursday | Reinforcement Learning                           |  |           
