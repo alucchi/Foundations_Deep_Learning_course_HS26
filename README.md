@@ -32,7 +32,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | 4       | 07/10/2026 | Wednesday | Optimization Landscape of Neural Networks                  | [Slides 4](lecture_slides/slides4_losslandscape.pdf) |           
 | 5       | 14/10/2026 | Wednesday | Architecture, Part I                                      | [Slides 5](lecture_slides/slides5_architectures.pdf) |           
 | 6       | 21/10/2026 | Wednesday | Architecture, Part II                                       |  |          
-| 7       | 28/10/2026 | Wednesday | Architecture, Part III: Transformers                                      | |
+| 7       | 28/10/2026 | Wednesday | Architecture, Part III: Transformers                                      |[Slides 6](lecture_slides/slides6_transformers.pdf) |
 | 8       | 04/11/2026 | Wednesday | Architecture, Part III: Transformers (cont.)                                    | |
 | 9       | 11/11/2026 | Wednesday | Reinforcement Learning                                       |  |           
 | 10      | 18/11/2026 | Wednesday | Adversarial Examples                                       | |           
@@ -50,7 +50,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | 1        | 01/10/2026 | Thursday | Basics + Linear & non-linear networks            | [Exercise 1](exercises/Exercise1_Neuralnetworks.pdf) |           
 | 2        | 08/10/2026 | Thursday | Approximation Theory                             | [Exercise 2](exercises/Exercise2_Approximation.pdf)|           
 | 3        | 15/10/2026 | Thursday | Optimization                                     | [Exercise 3](exercises/Exercise3_Optimization.pdf) |    
-| 4        | 22/10/2026 | Thursday | Optimization Landscape of Neural Networks        | |           
+| 4        | 22/10/2026 | Thursday | Optimization Landscape of Neural Networks        | [Exercise 4](exercises/Exercise4_Losslandscape.pdf)|           
 | 5        | 29/10/2026 | Thursday | Midterm                                          | |   
 | 6        | 05/11/2026 | Thursday | Tutorial session on PyTorch                      | |          
 | 7        | 12/11/2026 | Thursday | Architecture                                     | |           
