@@ -75,7 +75,11 @@ Note the following split:
 Date for written exam: Thursday, February 4, 2027, 10-12 a.m., Spiegelgasse 5, room 05.002.
 
 Information about the exam:
-Students are allowed to bring either two double-sided A4 sheets or four single-sided A4 sheets of notes (handwritten or prepared using LaTeX). No other external material is permitted. In particular, the use of mobile phones or any other electronic equipment is strictly forbidden. All electronic devices must be switched to airplane mode during any examination, including the mid-term exam, final exam, and continuous assessments (CAs).
+
+
+Note that for the midterm, a one-sided DIN A4 page is allowed, which can be both hand-written or printed.
+
+for the final exam, students are allowed to bring either  double-sided A4 sheets or four single-sided A4 sheets of notes (handwritten or prepared using LaTeX). No other external material is permitted. In particular, the use of mobile phones or any other electronic equipment is strictly forbidden. All electronic devices must be switched to airplane mode during any examination, including the mid-term exam, final exam, and continuous assessments (CAs).
 
 Any attempt at fraud or academic misconduct will be reported to the Dean’s Office.
 
