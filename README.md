@@ -38,7 +38,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | 10      | 18/11/2026 | Wednesday | Adversarial Examples                                       | |           
 | 11      | 25/11/2026 | Wednesday | Generalization I (Lecturer: Francesco Scala)               |  |           
 | 12      | 02/12/2026 | Wednesday | Generalization II (Lecturer: Francesco Scala)              |  |
-| 13      | 09/11/2026 | Wednesday | No lecture                                                 | | 
+| 13      | 09/12/2026 | Wednesday | No lecture                                                 | | 
 | 14      | 16/12/2026 | Wednesday | Exam review                                                | | 
 
 
