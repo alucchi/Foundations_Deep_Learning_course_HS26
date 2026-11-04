@@ -27,14 +27,14 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 |---------|------------|-----------|------------------------------------------------------------|-------------------------------------------------------|
 | 0       | 16/09/2026 | Wednesday | Introduction + Linear & non-linear networks                | [Slides 1](lecture_slides/slides1_introduction.pdf) |
 | 1       | 23/09/2026 | Wednesday | Approximation Theory                                       | [Slides 2](lecture_slides/slides2_approximation.pdf) |             
-| 2       | 24/09/2026 | Thursday  | Approximation Theory (cont.)                              |  |           
-| 3       | 30/09/2026 | Wednesday | Optimization                                              | [Slides 3](lecture_slides/slides3_optimization.pdf) |           
-| 4       | 07/10/2026 | Wednesday | Optimization Landscape of Neural Networks                  | [Slides 4](lecture_slides/slides4_losslandscape.pdf) |           
-| 5       | 14/10/2026 | Wednesday | Architecture, Part I                                      | [Slides 5](lecture_slides/slides5_architectures.pdf) |           
-| 6       | 21/10/2026 | Wednesday | Architecture, Part II                                       |  |          
-| 7       | 28/10/2026 | Wednesday | Architecture, Part III: Transformers                                      |[Slides 6](lecture_slides/slides6_transformers.pdf) |
-| 8       | 04/11/2026 | Wednesday | Architecture, Part III: Transformers (cont.)                                    | |
-| 9       | 11/11/2026 | Wednesday | Reinforcement Learning                                       |  |           
+| 2       | 24/09/2026 | Thursday  | Approximation Theory (cont.)                               |  |           
+| 3       | 30/09/2026 | Wednesday | Optimization                                               |[Slides 3](lecture_slides/slides3_optimization.pdf) |           
+| 4       | 07/10/2026 | Wednesday | Optimization Landscape of Neural Networks                  |[Slides 4](lecture_slides/slides4_losslandscape.pdf) |           
+| 5       | 14/10/2026 | Wednesday | Architecture, Part I                                       |[Slides 5](lecture_slides/slides5_architectures.pdf) |           
+| 6       | 21/10/2026 | Wednesday | Architecture, Part II                                      |  |          
+| 7       | 28/10/2026 | Wednesday | Architecture, Part III: Transformers                       |[Slides 6](lecture_slides/slides6_transformers.pdf) |
+| 8       | 04/11/2026 | Wednesday | Architecture, Part III: Transformers (cont.)               |[Slides 6](lecture_slides/slides6_transformers.pdf) |
+| 9       | 11/11/2026 | Wednesday | Reinforcement Learning                                     |[Slides 7](lecture_slides/slides7_reinforcement_learning.pdf) |           
 | 10      | 18/11/2026 | Wednesday | Adversarial Examples                                       | |           
 | 11      | 25/11/2026 | Wednesday | Generalization I (Lecturer: Francesco Scala)               |  |           
 | 12      | 02/12/2026 | Wednesday | Generalization II (Lecturer: Francesco Scala)              |  |
