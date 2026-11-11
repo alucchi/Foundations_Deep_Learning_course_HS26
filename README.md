@@ -85,9 +85,12 @@ Any attempt at fraud or academic misconduct will be reported to the Dean’s Off
 
 
 ## Projects
-Projects must be completed in groups of 2-3 students. Two types of projects you can pursue are:
+Projects must be completed in groups of 3 students. Two types of projects you can pursue are:
 1) A novel and sound solution to a problem discussed in the class
 2) Thorough theoretical analysis of an existing deep learning approach discussed in the class
 Students cannot use their own published work as the course project.
-Deadline: Thursday, February 11, 2027, 12:00 Bern time
+
+Further details can be found in the project guidelines uploaded on ADAM. 
+
+Deadline: Thursday, February 8, 2027, 12:00 Bern time
 Submission: on ADAM
