@@ -53,7 +53,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | 4        | 22/10/2026 | Thursday | Optimization Landscape of Neural Networks        | [Exercise 4](exercises/Exercise4_Losslandscape.pdf)|           
 | 5        | 29/10/2026 | Thursday | Midterm                                          | |   
 | 6        | 05/11/2026 | Thursday | Tutorial session on PyTorch                      | [Exercise 5](exercises/Exercise5_Pytorch_Tutorial)|          
-| 7        | 12/11/2026 | Thursday | Architecture                                     | |           
+| 7        | 12/11/2026 | Thursday | Architecture                                     | [Exercise 6](exercises/Exercise6_Architecture.pdf)|           
 | 8        | 19/11/2026 | Thursday | Transformers                                     | |           
 | 9        | 26/11/2026 | Thursday | Reinforcement Learning                           |  |           
 | 10       | 03/11/2026 | Thursday | Adversarial Examples                             |  |           
