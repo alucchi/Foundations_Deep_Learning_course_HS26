@@ -35,7 +35,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | 7       | 28/10/2026 | Wednesday | Architecture, Part III: Transformers                       |[Slides 6](lecture_slides/slides6_transformers.pdf) |
 | 8       | 04/11/2026 | Wednesday | Architecture, Part III: Transformers (cont.)               |[Slides 6](lecture_slides/slides6_transformers.pdf) |
 | 9       | 11/11/2026 | Wednesday | Reinforcement Learning                                     |[Slides 7](lecture_slides/slides7_reinforcement_learning.pdf) |           
-| 10      | 18/11/2026 | Wednesday | Adversarial Examples                                       | |           
+| 10      | 18/11/2026 | Wednesday | Adversarial Examples                                       |[Slides 8](lecture_slides/slides8_adversarial.pdf)  |           
 | 11      | 25/11/2026 | Wednesday | Generalization I (Lecturer: Francesco Scala)               |  |           
 | 12      | 02/12/2026 | Wednesday | Generalization II (Lecturer: Francesco Scala)              |  |
 | 13      | 09/12/2026 | Wednesday | No lecture                                                 | | 
