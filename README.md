@@ -56,7 +56,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | 7        | 12/11/2026 | Thursday | Architecture                                     | [Exercise 6](exercises/Exercise6_Architecture.pdf)|           
 | 8        | 19/11/2026 | Thursday | Transformers                                     | [Exercise 7](exercises/Exercise7_Transformers.pdf)|           
 | 9        | 26/11/2026 | Thursday | Reinforcement Learning                           |  |           
-| 10       | 03/11/2026 | Thursday | Adversarial Examples                             |  |           
+| 10       | 03/12/2026 | Thursday | Adversarial Examples                             |  |           
 | 11       | 10/12/2026 | Thursday | Generalization bounds                            |  |           
 | 12       | 17/12/2026 | Thursday | CA on Generalization bounds + CAs review         |  |       
 
