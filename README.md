@@ -36,7 +36,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | 8       | 04/11/2026 | Wednesday | Architecture, Part III: Transformers (cont.)               |[Slides 6](lecture_slides/slides6_transformers.pdf) |
 | 9       | 11/11/2026 | Wednesday | Reinforcement Learning                                     |[Slides 7](lecture_slides/slides7_reinforcement_learning.pdf) |           
 | 10      | 18/11/2026 | Wednesday | Adversarial Examples                                       |[Slides 8](lecture_slides/slides8_adversarial.pdf)  |           
-| 11      | 25/11/2026 | Wednesday | Generalization I (Lecturer: Francesco Scala)               |  |           
+| 11      | 25/11/2026 | Wednesday | Generalization I (Lecturer: Francesco Scala)               |[Slides 9](lecture_slides/slides9_generalization.pdf) |           
 | 12      | 02/12/2026 | Wednesday | Generalization II (Lecturer: Francesco Scala)              |  |
 | 13      | 09/12/2026 | Wednesday | No lecture                                                 | | 
 | 14      | 16/12/2026 | Wednesday | Exam review                                                | | 
@@ -55,7 +55,7 @@ Please read the [first chapter](lecture_notes/lecture_notes.pdf) of the notes to
 | 6        | 05/11/2026 | Thursday | Tutorial session on PyTorch                      | [Exercise 5](exercises/Exercise5_Pytorch_Tutorial)|          
 | 7        | 12/11/2026 | Thursday | Architecture                                     | [Exercise 6](exercises/Exercise6_Architecture.pdf)|           
 | 8        | 19/11/2026 | Thursday | Transformers                                     | [Exercise 7](exercises/Exercise7_Transformers.pdf)|           
-| 9        | 26/11/2026 | Thursday | Reinforcement Learning                           |  |           
+| 9        | 26/11/2026 | Thursday | Reinforcement Learning                           | [Exercise 8](exercises/Exercise8_RL.pdf)|           
 | 10       | 03/12/2026 | Thursday | Adversarial Examples                             |  |           
 | 11       | 10/12/2026 | Thursday | Generalization bounds                            |  |           
 | 12       | 17/12/2026 | Thursday | CA on Generalization bounds + CAs review         |  |       
